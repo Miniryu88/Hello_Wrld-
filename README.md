@@ -24,3 +24,40 @@ This world is mine for the viewing
 
 <style class = "<H3>" = red
  </style></h3>
+ <style>
+  .grid {
+    border: .125rem solid:
+    text-align: justify;
+    font-size: 0;
+    padding: 4% 4% 0 4%
+ }
+ 
+  .box {
+     font-size: 1 rem;
+     display: inline-block;
+     background: #eee;
+     border: .125em solid;
+     width: 30%;
+     padding: 2%
+ }
+ 
+ /* All but the last 3 boxes */
+  .box:nth-last-child(n+5) {
+      margin-bottom: 4%
+ }
+ 
+  .break {
+     display: inline-block;
+     width: 30%;
+     height: 0
+  }
+</style> 
+
+<div class="grid">
+     <div class="box">Column</div>
+     <div class="box">Column</div>
+     <div class="box">Column</div>
+     <div class="box">Column</div>
+     <div class="box">Column</div>
+     <div class="box">Column</div>
+ </div>
