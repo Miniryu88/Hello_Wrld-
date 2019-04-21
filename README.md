@@ -1,4 +1,4 @@
-# Hello_Wrld-
+# Hello_Wrld- <h2> Practice within the Realm of coding first before you go into it </h2> <b> I love coding this because it gives me the capacity to learn from Artificial intelligence </b>
 This world is mine for the viewing 
 <body>
  color red = background {
